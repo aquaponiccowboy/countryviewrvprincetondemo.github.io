@@ -28,7 +28,8 @@ baseurl: "/countryviewrvprincetondemo.github.io/" # the subpath of your site, e.
 url: "https://www.aquaponiccowboy.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minima
+theme: jekflix
+#theme: minima
 plugins:
   - jekyll-feed
 
@@ -51,3 +52,19 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+tags:
+  - rv
+  - princeton
+  - countryview
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: Rates and Amenities
+    url: /rates
+  - title: Full-time RV Family
+    url: /family
+  - title: RSVP your Space
+    url: /rsvp
+  - title: CountryView Events
+    url: /events
