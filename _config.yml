@@ -55,32 +55,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-#site.yml
-tags:
-  - rv
-  - princeton
-  - countryview
-show_hero: true
-menu:
-  - title: Home
-    url: /
-  - title: Rates and Amenities
-    url: /rates
-  - title: Full-time RV Family
-    url: /family
-  - title: RSVP your Space
-    url: /rsvp
-  - title: CountryView Events
-    url: /events
-
-#theme.yml
-themeColor: "#ff0a16"
-primaryDark: "#141414"
-accentDark: "#ffffff"
-lightGray: "#f2f2f2"
-texts: "#333333"
-
-#posts.yml
-two_columns_layout: false
 
 
