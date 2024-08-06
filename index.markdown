@@ -6,14 +6,3 @@ layout: default
 title: "CountryView RV Princeton"
 ---
 
-# My First Post with Images
-
-Here is an example image:
-
-![Example Image](/assets/images/sign.png)
-
-And here is another example image:
-
-![Another Example Image](/assets/images/road.png)
-
-This is the content of my post.
