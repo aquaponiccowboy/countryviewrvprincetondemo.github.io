@@ -3,6 +3,7 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #gem "minima", "~> 2.5"
 gem "jekflix"
+gem 'uri', '0.13.0'
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
