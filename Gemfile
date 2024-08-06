@@ -4,6 +4,8 @@ source "https://rubygems.org"
 #gem "minima", "~> 2.5"
 gem "jekflix"
 gem 'uri', '0.13.0'
+gem 'base64', '~> 0.1.0'
+
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
