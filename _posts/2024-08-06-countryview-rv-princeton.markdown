@@ -7,18 +7,13 @@
 layout: post
 title: "CountryView RV Princeton"
 date:   2024-08-06 17:00:00 -0500
-categories: jekyll update
+image: /assets/img/sign.png
 ---
 
 
 # My First Post with Images
 
-Here is an example image:
 
-![Example Image](/assets/images/sign.png)
-
-And here is another example image:
-
-![Another Example Image](/assets/images/road.png)
+![Another Example Image](/assets/img/road.png)
 
 This is the content of my post.
