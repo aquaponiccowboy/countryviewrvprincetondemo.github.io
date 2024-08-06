@@ -1,8 +1,4 @@
 ---
-layout: default
-title: Home
+layout: home
 ---
 
-# Welcome to Our Site
-
-This is the home page content.
